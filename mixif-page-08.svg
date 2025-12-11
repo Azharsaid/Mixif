@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1280 768">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-size: 10.02px;
+      }
+
+      .st0, .st1, .st2, .st3 {
+        fill: #231f20;
+      }
+
+      .st0, .st2, .st4, .st3, .st5 {
+        font-family: MyriadPro-Bold, 'Myriad Pro';
+        font-weight: 700;
+      }
+
+      .st6 {
+        filter: url(#drop-shadow-13);
+      }
+
+      .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22 {
+        stroke-miterlimit: 10;
+      }
+
+      .st6, .st7, .st8, .st9, .st11, .st14, .st15, .st16, .st17, .st18, .st19 {
+        stroke: #231f20;
+      }
+
+      .st6, .st7, .st8, .st9, .st14, .st15, .st16, .st17, .st18, .st19 {
+        fill: #f1f1f2;
+        stroke-width: .39px;
+      }
+
+      .st7 {
+        filter: url(#drop-shadow-11);
+      }
+
+      .st8 {
+        filter: url(#drop-shadow-12);
+      }
+
+      .st9 {
+        filter: url(#drop-shadow-10);
+      }
+
+      .st23 {
+        filter: url(#drop-shadow-3);
+      }
+
+      .st24 {
+        fill: url(#linear-gradient2);
+      }
+
+      .st25 {
+        fill: url(#linear-gradient9);
+      }
+
+      .st26 {
+        fill: url(#linear-gradient3);
+      }
+
+      .st27 {
+        fill: url(#linear-gradient6);
+      }
+
+      .st28 {
+        fill: url(#linear-gradient8);
+      }
+
+      .st29 {
+        fill: url(#linear-gradient7);
+      }
+
+      .st30 {
+        fill: url(#linear-gradient5);
+      }
+
+      .st31 {
+        fill: url(#linear-gradient4);
+      }
+
+      .st32 {
+        fill: #2b388f;
+      }
+
+      .st1 {
+        font-family: MyriadPro-Semibold, 'Myriad Pro';
+        font-size: 20.03px;
+        font-weight: 600;
+      }
+
+      .st33 {
+        fill: url(#linear-gradient18);
+      }
+
+      .st34 {
+        fill: url(#linear-gradient13);
+      }
+
+      .st35 {
+        fill: url(#linear-gradient15);
+      }
+
+      .st36 {
+        fill: url(#linear-gradient16);
+      }
+
+      .st37 {
+        fill: url(#linear-gradient11);
+      }
+
+      .st38 {
+        fill: url(#linear-gradient10);
+      }
+
+      .st39 {
+        fill: url(#linear-gradient17);
+      }
+
+      .st40 {
+        fill: url(#linear-gradient14);
+      }
+
+      .st41 {
+        fill: url(#linear-gradient19);
+      }
+
+      .st42 {
+        fill: url(#linear-gradient22);
+      }
+
+      .st43 {
+        fill: url(#linear-gradient21);
+      }
+
+      .st44 {
+        fill: url(#linear-gradient20);
+      }
+
+      .st2 {
+        font-size: 10.81px;
+      }
+
+      .st45 {
+        fill: url(#radial-gradient);
+      }
+
+      .st46 {
+        fill: url(#linear-gradient);
+      }
+
+      .st10 {
+        stroke: #fff;
+        stroke-width: 3.95px;
+      }
+
+      .st10, .st4, .st47 {
+        fill: #243a78;
+      }
+
+      .st4 {
+        font-size: 19px;
+      }
+
+      .st11 {
+        fill: none;
+        stroke-width: 1.56px;
+      }
+
+      .st48 {
+        filter: url(#drop-shadow-29);
+      }
+
+      .st12 {
+        stroke: url(#linear-gradient12);
+      }
+
+      .st12, .st13 {
+        stroke-width: 4.68px;
+      }
+
+      .st12, .st13, .st5, .st20, .st21, .st49, .st50 {
+        fill: #fff;
+      }
+
+      .st51 {
+        fill: #000b8c;
+      }
+
+      .st13 {
+        stroke: url(#linear-gradient1);
+      }
+
+      .st3 {
+        font-size: 14.01px;
+      }
+
+      .st5 {
+        font-size: 30px;
+      }
+
+      .st14 {
+        filter: url(#drop-shadow-8);
+      }
+
+      .st15 {
+        filter: url(#drop-shadow-6);
+      }
+
+      .st16 {
+        filter: url(#drop-shadow-5);
+      }
+
+      .st17 {
+        filter: url(#drop-shadow-4);
+      }
+
+      .st18 {
+        filter: url(#drop-shadow-7);
+      }
+
+      .st19 {
+        filter: url(#drop-shadow-9);
+      }
+
+      .st20, .st21 {
+        stroke: #2b388f;
+        stroke-width: 2.63px;
+      }
+
+      .st20, .st21, .st49, .st50 {
+        font-family: BerkshireSwash-Regular, 'Berkshire Swash';
+      }
+
+      .st20, .st49 {
+        font-size: 34.66px;
+      }
+
+      .st21, .st50 {
+        font-size: 27.67px;
+      }
+
+      .st22 {
+        fill: url(#radial-gradient1);
+        stroke: #000b8c;
+        stroke-width: 1.6px;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="640" cy="384" fx="640" fy="384" r="527.76" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#edffff"/>
+    </radialGradient>
+    <filter id="drop-shadow-3" x="34.96" y="676.63" width="153.04" height="81.56" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.73" dy="3.73"/>
+      <feGaussianBlur result="blur" stdDeviation="3.73"/>
+      <feFlood flood-color="#231f20" flood-opacity=".4"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="1746.22" y1="144.76" x2="582.59" y2="140.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".68" stop-color="#2b388f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="239.55" y1="426.05" x2="617.46" y2="426.05" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00b4bd"/>
+      <stop offset="1" stop-color="#8bc53f"/>
+    </linearGradient>
+    <filter id="drop-shadow-4" x="421.24" y="300.56" width="59.52" height="290.16" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.12" dy="3.12"/>
+      <feGaussianBlur result="blur1" stdDeviation="4.68"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur1" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient2" x1="433.98" y1="442.59" x2="462" y2="442.59" xlink:href="#linear-gradient1"/>
+    <filter id="drop-shadow-5" x="474.28" y="542.96" width="59.52" height="47.76" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.12" dy="3.12"/>
+      <feGaussianBlur result="blur2" stdDeviation="4.68"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient3" x1="487.02" y1="563.77" x2="515.05" y2="563.77" gradientUnits="userSpaceOnUse">
+      <stop offset=".03" stop-color="#2e3192"/>
+      <stop offset=".62" stop-color="#0071bc"/>
+    </linearGradient>
+    <filter id="drop-shadow-6" x="529" y="551.12" width="59.28" height="39.6" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.12" dy="3.12"/>
+      <feGaussianBlur result="blur3" stdDeviation="4.68"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient4" x1="541.57" y1="567.83" x2="569.6" y2="567.83" gradientUnits="userSpaceOnUse">
+      <stop offset=".03" stop-color="#006837"/>
+      <stop offset=".62" stop-color="#00a99d"/>
+    </linearGradient>
+    <filter id="drop-shadow-7" x="316.36" y="262.16" width="59.52" height="328.08" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.12" dy="3.12"/>
+      <feGaussianBlur result="blur4" stdDeviation="4.68"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient5" x1="329.03" y1="423.15" x2="357.06" y2="423.15" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00b4bd"/>
+      <stop offset="1" stop-color="#4c81c2"/>
+    </linearGradient>
+    <filter id="drop-shadow-8" x="368.92" y="538.64" width="59.28" height="51.6" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.12" dy="3.12"/>
+      <feGaussianBlur result="blur5" stdDeviation="4.68"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient6" x1="381.48" y1="561.45" x2="409.5" y2="561.45" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6f58a4"/>
+      <stop offset="1" stop-color="#2b388f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient7" x1="258.71" y1="605.15" x2="268.42" y2="605.15" xlink:href="#linear-gradient5"/>
+    <linearGradient id="linear-gradient8" x1="258.71" y1="626.77" x2="268.42" y2="626.77" xlink:href="#linear-gradient4"/>
+    <linearGradient id="linear-gradient9" x1="319.85" y1="605.15" x2="329.56" y2="605.15" xlink:href="#linear-gradient6"/>
+    <linearGradient id="linear-gradient10" x1="423.52" y1="605.15" x2="433.23" y2="605.15" xlink:href="#linear-gradient1"/>
+    <linearGradient id="linear-gradient11" x1="517.41" y1="605.15" x2="527.12" y2="605.15" xlink:href="#linear-gradient3"/>
+    <linearGradient id="linear-gradient12" x1="674.66" x2="1052.57" xlink:href="#linear-gradient1"/>
+    <filter id="drop-shadow-9" x="856.36" y="312.92" width="59.52" height="274.8" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.12" dy="3.12"/>
+      <feGaussianBlur result="blur6" stdDeviation="4.68"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur6" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient13" x1="869.09" y1="447.25" x2="897.12" y2="447.25" xlink:href="#linear-gradient1"/>
+    <filter id="drop-shadow-10" x="909.4" y="542.6" width="59.52" height="45.12" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.12" dy="3.12"/>
+      <feGaussianBlur result="blur7" stdDeviation="4.68"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur7" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient14" x1="922.13" y1="562.12" x2="950.16" y2="562.12" xlink:href="#linear-gradient3"/>
+    <filter id="drop-shadow-11" x="964.12" y="548.84" width="59.28" height="38.88" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.12" dy="3.12"/>
+      <feGaussianBlur result="blur8" stdDeviation="4.68"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur8" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient15" x1="976.68" y1="565.28" x2="1004.71" y2="565.28" xlink:href="#linear-gradient4"/>
+    <filter id="drop-shadow-12" x="751.48" y="272.6" width="59.52" height="314.64" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.12" dy="3.12"/>
+      <feGaussianBlur result="blur9" stdDeviation="4.68"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur9" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient16" x1="764.14" y1="426.91" x2="792.17" y2="426.91" xlink:href="#linear-gradient5"/>
+    <filter id="drop-shadow-13" x="804.04" y="518.6" width="59.28" height="68.64" filterUnits="userSpaceOnUse">
+      <feOffset dx="3.12" dy="3.12"/>
+      <feGaussianBlur result="blur10" stdDeviation="4.68"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur10" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient17" x1="816.59" y1="549.89" x2="844.62" y2="549.89" xlink:href="#linear-gradient6"/>
+    <linearGradient id="linear-gradient18" x1="699.11" y1="606.81" x2="708.82" y2="606.81" xlink:href="#linear-gradient5"/>
+    <linearGradient id="linear-gradient19" x1="699.11" y1="628.43" x2="708.82" y2="628.43" xlink:href="#linear-gradient4"/>
+    <linearGradient id="linear-gradient20" x1="760.25" y1="606.81" x2="769.96" y2="606.81" xlink:href="#linear-gradient6"/>
+    <linearGradient id="linear-gradient21" x1="863.92" y1="606.81" x2="873.63" y2="606.81" xlink:href="#linear-gradient1"/>
+    <linearGradient id="linear-gradient22" x1="957.81" y1="606.81" x2="967.52" y2="606.81" xlink:href="#linear-gradient3"/>
+    <filter id="drop-shadow-29" x="1214.08" y="704.75" width="40.65" height="40.65" filterUnits="userSpaceOnUse">
+      <feOffset dx="5.59" dy="5.59"/>
+      <feGaussianBlur result="blur11" stdDeviation="3.99"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur11" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="radial-gradient1" cx="1234.41" cy="725.08" fx="1234.41" fy="725.08" r="19.53" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#f1f1f1"/>
+    </radialGradient>
+  </defs>
+  <g>
+    <rect class="st45" width="1280" height="768"/>
+    <g class="st23">
+      <text class="st20" transform="translate(68.19 711.56) rotate(-.27)"><tspan x="0" y="0">Eternal </tspan></text>
+      <g>
+        <g>
+          <path class="st10" d="M64.97,714.95c-.11.14-.15.32-.11.5l2.71,12.04c.06.27.3.46.58.46h.57c.9-2.06,1.4-4.34,1.39-6.73-.01-2.31-.5-4.51-1.36-6.51l-3.32.02c-.18,0-.35.08-.46.22Z"/>
+          <path class="st10" d="M39.54,728.11l2.6-12.07c.04-.17,0-.36-.12-.5-.11-.14-.28-.22-.46-.22l-3.52.02c-.72,1.87-1.11,3.9-1.1,6.03.01,2.58.61,5.03,1.68,7.2h.35c.28,0,.52-.2.57-.47Z"/>
+          <path class="st10" d="M65.71,724.41l-2.02-8.85c-.12-.54-.61-.92-1.16-.92-.02,0-.05,0-.07,0l-7.09.47c-.27.02-.52.13-.72.31l-.29.26-.31-.28c-.22-.2-.5-.3-.79-.3h-2.94s-5.96.04-5.96.04c-.55,0-1.03.39-1.15.93l-2.05,9.38c-.08.38.02.77.28,1.05.23.25.54.38.87.38.05,0,.1,0,.15-.01l2.8-.37,7.52,5.81.78.72c.23.21.52.31.81.31.08,0,.15,0,.23-.02.26-.02.51-.13.71-.32l5.35-5.04,2.64-2.44.93.27c.11.03.22.05.33.05.3,0,.58-.11.81-.32.3-.29.43-.71.34-1.12ZM61.08,725.96s-.04-.04-.06-.06l-5.08-4.65c-.24-.22-.61-.2-.83.04-.22.24-.2.61.04.83l5.08,4.64-.37.35-.83.78s0,0,0-.01c-.03-.04-.06-.08-.1-.11l-4.22-3.72c-.24-.22-.62-.19-.83.05-.22.24-.19.62.05.83l4.22,3.72s.02.01.02.02c0,0,.01,0,.02.01l-1.22,1.15s-.01-.02-.02-.04c-.03-.05-.07-.1-.12-.15l-3.46-3.05c-.24-.22-.62-.19-.83.05-.22.24-.19.62.05.83l3.46,3.05s.04.03.05.04c.02.01.03.02.05.03l-.56.52s-.02-.04-.03-.06c-.04-.08-.09-.16-.17-.22l-.84-.67c-.25-.2-.63-.16-.83.09l-.6.75-.03.04-.5-.39.07-.08.59-.74c.2-.26.16-.63-.09-.83l-.84-.67c-.26-.2-.63-.16-.83.09l-.48.61-.19.24-.5-.39.22-.28.6-.76c.2-.26.16-.63-.09-.83l-.84-.67c-.25-.2-.63-.16-.83.09l-.5.63-.35.44-.31-.24-.19-.15s.01,0,.02-.01c.05-.03.09-.07.13-.11l.26-.33.62-.78c.2-.26.16-.63-.09-.83l-.84-.67c-.26-.2-.63-.16-.83.09l-.51.65-.37.46s0,0,0,0c-.05.06-.08.13-.1.2l-.71-.55-.33.04-2.96.39,2.05-9.38,5.96-.03h2.94s.23.19.23.19l.1.09-1.84,2.31-.75.95s-.35.39-.32.84c.01.16.07.32.22.48.68.74,2.23.16,2.23.16l1.92-2.31s.25-.33.69-.5l6.79,6.1-1.44,1.36Z"/>
+        </g>
+        <path class="st10" d="M54.77,755.22l1.79-19.93c.03-.29-.06-.58-.24-.79-.18-.21-.43-.32-.68-.3l-3.96.49c-.72,3.13-.96,6.48-.62,9.93.41,4.19.68,8.08,2.49,11.47l.48-.05c.39-.04.69-.38.73-.83Z"/>
+      </g>
+      <text class="st21" transform="translate(65.99 747.4) rotate(-.27)"><tspan x="0" y="0">rust</tspan></text>
+      <text class="st49" transform="translate(68.19 711.56) rotate(-.27)"><tspan x="0" y="0">Eternal </tspan></text>
+      <g>
+        <g>
+          <path class="st47" d="M64.97,714.95c-.11.14-.15.32-.11.5l2.71,12.04c.06.27.3.46.58.46h.57c.9-2.06,1.4-4.34,1.39-6.73-.01-2.31-.5-4.51-1.36-6.51l-3.32.02c-.18,0-.35.08-.46.22Z"/>
+          <path class="st47" d="M39.54,728.11l2.6-12.07c.04-.17,0-.36-.12-.5-.11-.14-.28-.22-.46-.22l-3.52.02c-.72,1.87-1.11,3.9-1.1,6.03.01,2.58.61,5.03,1.68,7.2h.35c.28,0,.52-.2.57-.47Z"/>
+          <path class="st47" d="M65.71,724.41l-2.02-8.85c-.12-.54-.61-.92-1.16-.92-.02,0-.05,0-.07,0l-7.09.47c-.27.02-.52.13-.72.31l-.29.26-.31-.28c-.22-.2-.5-.3-.79-.3h-2.94s-5.96.04-5.96.04c-.55,0-1.03.39-1.15.93l-2.05,9.38c-.08.38.02.77.28,1.05.23.25.54.38.87.38.05,0,.1,0,.15-.01l2.8-.37,7.52,5.81.78.72c.23.21.52.31.81.31.08,0,.15,0,.23-.02.26-.02.51-.13.71-.32l5.35-5.04,2.64-2.44.93.27c.11.03.22.05.33.05.3,0,.58-.11.81-.32.3-.29.43-.71.34-1.12ZM61.08,725.96s-.04-.04-.06-.06l-5.08-4.65c-.24-.22-.61-.2-.83.04-.22.24-.2.61.04.83l5.08,4.64-.37.35-.83.78s0,0,0-.01c-.03-.04-.06-.08-.1-.11l-4.22-3.72c-.24-.22-.62-.19-.83.05-.22.24-.19.62.05.83l4.22,3.72s.02.01.02.02c0,0,.01,0,.02.01l-1.22,1.15s-.01-.02-.02-.04c-.03-.05-.07-.1-.12-.15l-3.46-3.05c-.24-.22-.62-.19-.83.05-.22.24-.19.62.05.83l3.46,3.05s.04.03.05.04c.02.01.03.02.05.03l-.56.52s-.02-.04-.03-.06c-.04-.08-.09-.16-.17-.22l-.84-.67c-.25-.2-.63-.16-.83.09l-.6.75-.03.04-.5-.39.07-.08.59-.74c.2-.26.16-.63-.09-.83l-.84-.67c-.26-.2-.63-.16-.83.09l-.48.61-.19.24-.5-.39.22-.28.6-.76c.2-.26.16-.63-.09-.83l-.84-.67c-.25-.2-.63-.16-.83.09l-.5.63-.35.44-.31-.24-.19-.15s.01,0,.02-.01c.05-.03.09-.07.13-.11l.26-.33.62-.78c.2-.26.16-.63-.09-.83l-.84-.67c-.26-.2-.63-.16-.83.09l-.51.65-.37.46s0,0,0,0c-.05.06-.08.13-.1.2l-.71-.55-.33.04-2.96.39,2.05-9.38,5.96-.03h2.94s.23.19.23.19l.1.09-1.84,2.31-.75.95s-.35.39-.32.84c.01.16.07.32.22.48.68.74,2.23.16,2.23.16l1.92-2.31s.25-.33.69-.5l6.79,6.1-1.44,1.36Z"/>
+        </g>
+        <path class="st47" d="M54.77,755.22l1.79-19.93c.03-.29-.06-.58-.24-.79-.18-.21-.43-.32-.68-.3l-3.96.49c-.72,3.13-.96,6.48-.62,9.93.41,4.19.68,8.08,2.49,11.47l.48-.05c.39-.04.69-.38.73-.83Z"/>
+      </g>
+      <text class="st50" transform="translate(65.99 747.4) rotate(-.27)"><tspan x="0" y="0">rust</tspan></text>
+    </g>
+    <g>
+      <path class="st32" d="M1279.38,723.58H292.12c-13.34,0-26.69-.17-40.02,0-.58,0-1.17,0-1.75,0-1.93,0-1.93,3,0,3h987.26c13.34,0,26.69.17,40.02,0,.58,0,1.17,0,1.75,0,1.93,0,1.93-3,0-3h0Z"/>
+      <circle class="st32" cx="238.59" cy="725.53" r="4.9"/>
+      <circle class="st32" cx="224.64" cy="725.53" r="4.9"/>
+      <circle class="st32" cx="210.68" cy="725.53" r="4.9"/>
+    </g>
+    <g>
+      <path class="st32" d="M0,55.81h994.39c13.43,0,26.88.17,40.31,0,.59,0,1.18,0,1.76,0,1.93,0,1.93-3,0-3h-499.58c-50.35,0-100.69,0-151.04,0-46.62,0-93.25,0-139.87,0H42.07c-13.43,0-26.88-.17-40.31,0-.59,0-1.18,0-1.76,0-1.93,0-1.93,3,0,3h0Z"/>
+      <circle class="st32" cx="1048.22" cy="53.86" r="4.9"/>
+      <circle class="st32" cx="1062.18" cy="53.86" r="4.9"/>
+      <circle class="st32" cx="1076.13" cy="53.86" r="4.9"/>
+    </g>
+    <g>
+      <path class="st47" d="M1154.38,56.45c-.16-4.27-.32-9.38-.32-14.6h-.11c-1.16,4.53-2.64,9.6-4.01,13.76l-4.32,13.87h-6.27l-3.79-13.71c-1.16-4.22-2.32-9.23-3.22-13.92h-.1c-.16,4.8-.37,10.28-.58,14.71l-.69,13.5h-7.44l2.27-35.53h10.7l3.48,11.92c1.16,4.06,2.21,8.49,3,12.65h.21c.95-4.11,2.16-8.75,3.37-12.76l3.74-11.81h10.54l1.9,35.53h-7.8l-.58-13.6Z"/>
+      <path class="st47" d="M1170.83,40.9c-2.69,0-4.43-1.9-4.43-4.27s1.79-4.27,4.53-4.27,4.43,1.85,4.48,4.27c0,2.37-1.74,4.27-4.53,4.27h-.05ZM1166.88,44.27h8.01v25.78h-8.01v-25.78Z"/>
+      <path class="st47" d="M1185.38,44.27l2.53,4.32c.74,1.32,1.42,2.58,2.11,3.85h.11c.69-1.42,1.32-2.69,2-4.01l2.27-4.16h8.7l-8.49,12.28,8.59,13.5h-9.07l-2.58-4.64c-.74-1.27-1.42-2.58-2-3.9h-.16c-.63,1.37-1.32,2.64-1.95,3.9l-2.42,4.64h-8.81l8.75-13.13-8.54-12.65h8.96Z"/>
+      <path class="st47" d="M1208.48,40.9c-2.69,0-4.43-1.9-4.43-4.27s1.79-4.27,4.53-4.27,4.43,1.85,4.48,4.27c0,2.37-1.74,4.27-4.53,4.27h-.05ZM1204.53,44.27h8.01v25.78h-8.01v-25.78Z"/>
+      <path class="st47" d="M1217.86,70.05v-19.87h-3.43v-5.9h3.43v-1c0-3.11.95-6.54,3.22-8.65,2.05-1.9,4.8-2.58,7.17-2.58,1.74,0,3.11.26,4.22.53l-.32,6.17c-.69-.21-1.53-.37-2.58-.37-2.64,0-3.74,2.06-3.74,4.59v1.32h5.17v5.9h-5.11v19.87h-8.01Z"/>
+      <path class="st47" d="M1187.01,80.91c-.37.19-1.13.38-2.1.38-2.25,0-3.93-1.42-3.93-4.04s1.69-4.19,4.16-4.19c.98,0,1.62.21,1.89.35l-.26.84c-.38-.19-.94-.33-1.6-.33-1.87,0-3.11,1.2-3.11,3.29,0,1.96,1.12,3.21,3.05,3.21.64,0,1.28-.13,1.69-.33l.2.83Z"/>
+      <path class="st47" d="M1189.31,78.47c.02,1.41.91,1.99,1.95,1.99.75,0,1.21-.13,1.59-.29l.19.73c-.37.16-1,.37-1.92.37-1.75,0-2.81-1.17-2.81-2.88s1.03-3.1,2.7-3.1c1.87,0,2.35,1.64,2.35,2.7,0,.21,0,.38-.03.5h-4.01ZM1192.35,77.73c0-.65-.27-1.69-1.43-1.69-1.06,0-1.51.97-1.6,1.69h3.03Z"/>
+      <path class="st47" d="M1195.33,81.16v-4.93h-.79v-.79h.79v-.27c0-.8.19-1.54.68-2,.39-.38.91-.53,1.38-.53.38,0,.69.08.89.16l-.13.81c-.17-.07-.37-.13-.67-.13-.88,0-1.11.78-1.11,1.66v.31h1.38v.79h-1.37v4.93h-1.04Z"/>
+      <path class="st47" d="M1199.77,74.38c-.39,0-.65-.31-.65-.67s.27-.66.67-.66.66.3.66.66-.26.67-.67.67h-.01ZM1199.28,75.43h1.04v5.72h-1.04v-5.72Z"/>
+      <path class="st47" d="M1203.11,75.43l.82,1.22c.21.33.39.62.58.94h.03c.19-.33.38-.63.58-.94l.79-1.22h1.14l-1.95,2.77,2,2.96h-1.18l-.84-1.29c-.22-.33-.41-.65-.61-.99h-.02c-.19.34-.39.65-.6.99l-.83,1.29h-1.15l2.03-2.92-1.94-2.8h1.16Z"/>
+      <path class="st47" d="M1209.19,74.38c-.39,0-.65-.31-.65-.67s.27-.66.68-.66.66.3.66.66-.26.67-.68.67h-.01ZM1208.69,75.43h1.04v5.72h-1.04v-5.72Z"/>
+      <path class="st47" d="M1212.04,76.98c0-.6-.02-1.07-.05-1.55h.91l.05.92h.03c.32-.54.85-1.05,1.81-1.05.77,0,1.36.47,1.61,1.15h.02c.18-.33.41-.57.65-.74.34-.26.71-.4,1.25-.4.77,0,1.89.5,1.89,2.48v3.37h-1.02v-3.24c0-1.11-.42-1.76-1.24-1.76-.6,0-1.05.44-1.24.93-.05.15-.08.35-.08.52v3.55h-1.02v-3.43c0-.92-.4-1.57-1.2-1.57-.64,0-1.12.52-1.29,1.04-.06.15-.08.33-.08.51v3.45h-1.02v-4.18Z"/>
+      <path class="st47" d="M1223.08,78.47c.02,1.41.91,1.99,1.95,1.99.74,0,1.21-.13,1.58-.29l.19.73c-.37.16-1,.37-1.92.37-1.75,0-2.81-1.17-2.81-2.88s1.03-3.1,2.7-3.1c1.87,0,2.36,1.64,2.36,2.7,0,.21-.01.38-.04.5h-4.01ZM1226.12,77.73c0-.65-.27-1.69-1.43-1.69-1.06,0-1.51.97-1.6,1.69h3.03Z"/>
+      <path class="st47" d="M1241.34,32.72c2.32,0,4.17,1.89,4.17,4.21s-1.85,4.23-4.19,4.23-4.21-1.87-4.21-4.23,1.89-4.21,4.21-4.21h.02ZM1241.3,33.56c-1.76,0-3.18,1.52-3.18,3.39s1.42,3.37,3.2,3.37c1.78.02,3.22-1.48,3.22-3.37s-1.44-3.39-3.22-3.39h-.02ZM1240.59,39.38h-.99v-4.68c.37-.06.79-.13,1.5-.13.8,0,1.29.13,1.61.37.26.21.41.52.41,1.01,0,.56-.39.95-.9,1.09v.04c.41.07.67.45.75,1.14.09.73.19,1.01.26,1.16h-1.03c-.11-.17-.19-.58-.28-1.22-.07-.51-.37-.71-.88-.71h-.45v1.93ZM1240.59,36.69h.47c.58,0,1.03-.19,1.03-.67,0-.39-.28-.69-.95-.69-.24,0-.41,0-.54.02v1.35Z"/>
+    </g>
+  </g>
+  <rect class="st46" x="-.19" y="97.49" width="1280.38" height="85.68"/>
+  <text class="st5" transform="translate(33.08 136.98)"><tspan x="0" y="0">In children, Cefixime is effective against most frequent pathogens in Pharyngitis and </tspan><tspan x="0" y="36">Tonsillitis</tspan><tspan x="129.54" y="36">7</tspan></text>
+  <g>
+    <rect class="st13" x="241.89" y="203.17" width="373.23" height="445.77" rx="12" ry="12"/>
+    <g>
+      <path class="st17" d="M434.96,311.76h25.97c1.32,0,2.4,1.08,2.4,2.4v259.08h-30.77v-259.08c0-1.32,1.08-2.4,2.4-2.4Z"/>
+      <path class="st24" d="M436.38,313.73h23.22c1.32,0,2.4,1.08,2.4,2.4v255.31h-28.03v-255.31c0-1.32,1.08-2.4,2.4-2.4Z"/>
+    </g>
+    <g>
+      <path class="st16" d="M488,554.13h25.97c1.32,0,2.4,1.08,2.4,2.4v16.71h-30.77v-16.71c0-1.32,1.08-2.4,2.4-2.4Z"/>
+      <path class="st26" d="M489.42,556.1h23.22c1.32,0,2.4,1.08,2.4,2.4v12.94h-28.03v-12.94c0-1.32,1.08-2.4,2.4-2.4Z"/>
+    </g>
+    <g>
+      <path class="st15" d="M542.55,562.24h25.97c1.32,0,2.4,1.08,2.4,2.4v8.6h-30.77v-8.6c0-1.32,1.08-2.4,2.4-2.4Z"/>
+      <path class="st31" d="M543.97,564.21h23.22c1.32,0,2.4,1.08,2.4,2.4v4.83h-28.03v-4.83c0-1.32,1.08-2.4,2.4-2.4Z"/>
+    </g>
+    <g>
+      <path class="st18" d="M330.01,273.34h25.97c1.32,0,2.4,1.08,2.4,2.4v297.04h-30.77v-297.04c0-1.32,1.08-2.4,2.4-2.4Z"/>
+      <path class="st30" d="M357.06,570.98h-28.03v-291.3c0-2.42,1.96-4.37,4.37-4.37h19.28c2.42,0,4.37,1.96,4.37,4.37v291.3Z"/>
+    </g>
+    <g>
+      <path class="st14" d="M382.46,549.94h25.97c1.32,0,2.4,1.08,2.4,2.4v20.44h-30.77v-20.44c0-1.32,1.08-2.4,2.4-2.4Z"/>
+      <path class="st27" d="M409.5,570.98h-28.03v-14.69c0-2.42,1.96-4.37,4.37-4.37h19.28c2.42,0,4.37,1.96,4.37,4.37v14.69Z"/>
+    </g>
+    <line class="st11" x1="307.68" y1="572.38" x2="296.08" y2="572.38"/>
+    <text class="st3" transform="translate(264.36 575.96)"><tspan x="0" y="0">0%</tspan></text>
+    <text class="st3" transform="translate(409.67 592.71)"><tspan x="0" y="0">Cefixime</tspan></text>
+    <text class="st3" transform="translate(264.36 544.96)"><tspan x="0" y="0">10%</tspan></text>
+    <text class="st3" transform="translate(264.36 513.95)"><tspan x="0" y="0">20%</tspan></text>
+    <text class="st3" transform="translate(264.36 480.08)"><tspan x="0" y="0">30%</tspan></text>
+    <text class="st3" transform="translate(264.36 449.07)"><tspan x="0" y="0">40%</tspan></text>
+    <text class="st3" transform="translate(264.36 415.19)"><tspan x="0" y="0">50%</tspan></text>
+    <text class="st3" transform="translate(264.36 384.19)"><tspan x="0" y="0">60%</tspan></text>
+    <text class="st3" transform="translate(264.36 352.65)"><tspan x="0" y="0">70%</tspan></text>
+    <text class="st3" transform="translate(264.36 321.65)"><tspan x="0" y="0">80%</tspan></text>
+    <text class="st3" transform="translate(264.36 289.58)"><tspan x="0" y="0">90%</tspan></text>
+    <text class="st3" transform="translate(257.2 253.88)"><tspan x="0" y="0">100%</tspan></text>
+    <text class="st1" transform="translate(354.77 236)"><tspan x="0" y="0">Cefixime once daily</tspan></text>
+    <line class="st11" x1="307.68" y1="540.41" x2="296.08" y2="540.41"/>
+    <line class="st11" x1="307.68" y1="508.45" x2="296.08" y2="508.45"/>
+    <line class="st11" x1="307.68" y1="476.49" x2="296.08" y2="476.49"/>
+    <line class="st11" x1="307.68" y1="444.52" x2="296.08" y2="444.52"/>
+    <line class="st11" x1="307.68" y1="412.56" x2="296.08" y2="412.56"/>
+    <line class="st11" x1="307.68" y1="380.6" x2="296.08" y2="380.6"/>
+    <line class="st11" x1="307.68" y1="348.63" x2="296.08" y2="348.63"/>
+    <line class="st11" x1="307.68" y1="316.67" x2="296.08" y2="316.67"/>
+    <line class="st11" x1="307.68" y1="284.71" x2="296.08" y2="284.71"/>
+    <line class="st11" x1="307.68" y1="250.4" x2="296.08" y2="250.4"/>
+    <polyline class="st11" points="307.07 243.38 307.07 572.39 594.26 572.39"/>
+    <text class="st2" transform="translate(327.61 268.41)"><tspan x="0" y="0">93.3%</tspan></text>
+    <text class="st2" transform="translate(384.18 545.11)"><tspan x="0" y="0">6.7%</tspan></text>
+    <text class="st2" transform="translate(432.86 307.11)"><tspan x="0" y="0">82.7%</tspan></text>
+    <text class="st2" transform="translate(527.12 307.11)"><tspan x="0" y="0">N=149</tspan></text>
+    <text class="st2" transform="translate(487.02 549.94)"><tspan x="0" y="0">5.0%</tspan></text>
+    <text class="st2" transform="translate(544.5 556.1)"><tspan x="0" y="0">2.0%</tspan></text>
+    <text class="st0" transform="translate(273.01 608.23)"><tspan x="0" y="0">Cure rate</tspan></text>
+    <rect class="st29" x="258.71" y="600.29" width="9.71" height="9.71"/>
+    <text class="st0" transform="translate(273.01 629.85)"><tspan x="0" y="0">Side effects</tspan></text>
+    <rect class="st28" x="258.71" y="621.91" width="9.71" height="9.71"/>
+    <text class="st0" transform="translate(334.15 608.23)"><tspan x="0" y="0">Improvement rate</tspan></text>
+    <rect class="st25" x="319.85" y="600.29" width="9.71" height="9.71"/>
+    <text class="st0" transform="translate(437.81 608.23)"><tspan x="0" y="0">Eradication rate</tspan></text>
+    <rect class="st38" x="423.52" y="600.29" width="9.71" height="9.71"/>
+    <text class="st0" transform="translate(531.71 608.23)"><tspan x="0" y="0">Relapse Rate</tspan></text>
+    <rect class="st37" x="517.41" y="600.29" width="9.71" height="9.71"/>
+  </g>
+  <g>
+    <rect class="st12" x="677" y="203.17" width="373.23" height="445.77" rx="12" ry="12"/>
+    <g>
+      <path class="st19" d="M870.07,324.08h25.97c1.32,0,2.4,1.08,2.4,2.4v243.76h-30.77v-243.76c0-1.32,1.08-2.4,2.4-2.4Z"/>
+      <path class="st34" d="M871.49,326.05h23.22c1.32,0,2.4,1.08,2.4,2.4v239.99h-28.03v-239.99c0-1.32,1.08-2.4,2.4-2.4Z"/>
+    </g>
+    <g>
+      <path class="st9" d="M923.11,553.83h25.97c1.32,0,2.4,1.08,2.4,2.4v14.01h-30.77v-14.01c0-1.32,1.08-2.4,2.4-2.4Z"/>
+      <path class="st40" d="M924.53,555.8h23.22c1.32,0,2.4,1.08,2.4,2.4v10.24h-28.03v-10.24c0-1.32,1.08-2.4,2.4-2.4Z"/>
+    </g>
+    <g>
+      <path class="st7" d="M977.66,560.14h25.97c1.32,0,2.4,1.08,2.4,2.4v7.7h-30.77v-7.7c0-1.32,1.08-2.4,2.4-2.4Z"/>
+      <path class="st35" d="M979.08,562.11h23.22c1.32,0,2.4,1.08,2.4,2.4v3.93h-28.03v-3.93c0-1.32,1.08-2.4,2.4-2.4Z"/>
+    </g>
+    <g>
+      <path class="st8" d="M765.12,283.85h25.97c1.32,0,2.4,1.08,2.4,2.4v283.53h-30.77v-283.53c0-1.32,1.08-2.4,2.4-2.4Z"/>
+      <path class="st36" d="M792.17,567.98h-28.03v-277.78c0-2.42,1.96-4.37,4.37-4.37h19.28c2.42,0,4.37,1.96,4.37,4.37v277.78Z"/>
+    </g>
+    <g>
+      <path class="st6" d="M817.57,529.83h25.97c1.32,0,2.4,1.08,2.4,2.4v37.55h-30.77v-37.55c0-1.32,1.08-2.4,2.4-2.4Z"/>
+      <path class="st39" d="M844.62,567.98h-28.03v-31.81c0-2.42,1.96-4.37,4.37-4.37h19.28c2.42,0,4.37,1.96,4.37,4.37v31.81Z"/>
+    </g>
+    <line class="st11" x1="742.79" y1="569.38" x2="731.19" y2="569.38"/>
+    <text class="st3" transform="translate(699.47 572.96)"><tspan x="0" y="0">0%</tspan></text>
+    <text class="st3" transform="translate(844.79 589.71)"><tspan x="0" y="0">Penicillin </tspan></text>
+    <text class="st3" transform="translate(699.47 541.96)"><tspan x="0" y="0">10%</tspan></text>
+    <text class="st3" transform="translate(699.47 510.95)"><tspan x="0" y="0">20%</tspan></text>
+    <text class="st3" transform="translate(699.47 477.08)"><tspan x="0" y="0">30%</tspan></text>
+    <text class="st3" transform="translate(699.47 446.07)"><tspan x="0" y="0">40%</tspan></text>
+    <text class="st3" transform="translate(699.47 412.19)"><tspan x="0" y="0">50%</tspan></text>
+    <text class="st3" transform="translate(699.47 381.19)"><tspan x="0" y="0">60%</tspan></text>
+    <text class="st3" transform="translate(699.47 349.65)"><tspan x="0" y="0">70%</tspan></text>
+    <text class="st3" transform="translate(699.47 318.65)"><tspan x="0" y="0">80%</tspan></text>
+    <text class="st3" transform="translate(699.47 286.58)"><tspan x="0" y="0">90%</tspan></text>
+    <text class="st3" transform="translate(692.32 250.88)"><tspan x="0" y="0">100%</tspan></text>
+    <text class="st1" transform="translate(777.85 236)"><tspan x="0" y="0">Penicillin V twice daily</tspan></text>
+    <line class="st11" x1="742.79" y1="537.41" x2="731.19" y2="537.41"/>
+    <line class="st11" x1="742.79" y1="505.45" x2="731.19" y2="505.45"/>
+    <line class="st11" x1="742.79" y1="473.49" x2="731.19" y2="473.49"/>
+    <line class="st11" x1="742.79" y1="441.52" x2="731.19" y2="441.52"/>
+    <line class="st11" x1="742.79" y1="409.56" x2="731.19" y2="409.56"/>
+    <line class="st11" x1="742.79" y1="377.6" x2="731.19" y2="377.6"/>
+    <line class="st11" x1="742.79" y1="345.63" x2="731.19" y2="345.63"/>
+    <line class="st11" x1="742.79" y1="313.67" x2="731.19" y2="313.67"/>
+    <line class="st11" x1="742.79" y1="281.71" x2="731.19" y2="281.71"/>
+    <line class="st11" x1="742.79" y1="247.4" x2="731.19" y2="247.4"/>
+    <polyline class="st11" points="742.18 240.38 742.18 569.39 1029.38 569.39"/>
+    <text class="st2" transform="translate(762.72 278.92)"><tspan x="0" y="0">89.2%</tspan></text>
+    <text class="st2" transform="translate(816.59 524.99)"><tspan x="0" y="0">10.8%</tspan></text>
+    <text class="st2" transform="translate(867.97 319.43)"><tspan x="0" y="0">77.0%</tspan></text>
+    <text class="st2" transform="translate(951.48 319.43)"><tspan x="0" y="0">N=136</tspan></text>
+    <text class="st2" transform="translate(922.13 549.65)"><tspan x="0" y="0">4.4%</tspan></text>
+    <text class="st2" transform="translate(979.61 554)"><tspan x="0" y="0">2.0%</tspan></text>
+    <text class="st0" transform="translate(713.41 609.9)"><tspan x="0" y="0">Cure rate</tspan></text>
+    <rect class="st33" x="699.11" y="601.96" width="9.71" height="9.71"/>
+    <text class="st0" transform="translate(713.41 631.52)"><tspan x="0" y="0">Side effects</tspan></text>
+    <rect class="st41" x="699.11" y="623.58" width="9.71" height="9.71"/>
+    <text class="st0" transform="translate(774.55 609.9)"><tspan x="0" y="0">Improvement rate</tspan></text>
+    <rect class="st44" x="760.25" y="601.96" width="9.71" height="9.71"/>
+    <text class="st0" transform="translate(878.21 609.9)"><tspan x="0" y="0">Eradication rate</tspan></text>
+    <rect class="st43" x="863.92" y="601.96" width="9.71" height="9.71"/>
+    <text class="st0" transform="translate(972.1 609.9)"><tspan x="0" y="0">Relapse Rate</tspan></text>
+    <rect class="st42" x="957.81" y="601.96" width="9.71" height="9.71"/>
+  </g>
+  <text class="st4" transform="translate(229.95 677.78)"><tspan x="0" y="0">154</tspan><tspan x="31.63" y="0" xml:space="preserve"> children aged </tspan><tspan x="155.5" y="0">2</tspan><tspan x="166.04" y="0" xml:space="preserve"> to </tspan><tspan x="191.65" y="0">12</tspan><tspan x="212.74" y="0" xml:space="preserve"> years with clinical diagnosis of bacterial pharyngitis and/or tonsillitis were </tspan><tspan x="0" y="22.8">enrolled in this open controlled randomized and multicenter trial.</tspan></text>
+  <g class="st48">
+    <rect class="st22" x="1214.88" y="705.55" width="39.06" height="39.06" rx="8.38" ry="8.38"/>
+    <path class="st51" d="M1248.89,722.61l-4.97-4.97v-6.89c0-.24-.19-.43-.43-.43h-3.07c-.24,0-.43.19-.43.43v2.96l-4.53-4.53c-.58-.57-1.51-.57-2.08,0l-13.45,13.44c-.87.87-.35,2.36.87,2.5l2.17.25v14.55c0,.81.66,1.47,1.47,1.47h6.34v-10.56c0-.71.57-1.28,1.28-1.28h4.7c.71,0,1.28.57,1.28,1.28v10.56h6.34c.81,0,1.47-.66,1.47-1.47v-14.56l2.17-.26c1.22-.14,1.74-1.64.87-2.5Z"/>
+  </g>
+</svg>
