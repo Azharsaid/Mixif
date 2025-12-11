@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mixif® (Cefixime) – Ultra-Interactive Digital Brochure</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- GSAP Core + ScrollTrigger (CDN) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+
+  <!-- App Logic -->
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <div id="app" class="app">
+    <!-- Top Navigation / Brand -->
+    <header class="top-bar">
+      <div class="brand">
+        <span class="brand-main">Mixif® (Cefixime)</span>
+        <span class="brand-sub">Ultra-Interactive Evidence Brochure</span>
+      </div>
+      <nav id="main-nav" class="main-nav">
+        <!-- Buttons injected by script.js based on PAGES[] -->
+      </nav>
+    </header>
+
+    <!-- Main Layout -->
+    <main class="main-layout">
+      <!-- Side controls -->
+      <aside class="side-nav">
+        <button class="side-nav-btn js-prev-page" type="button">‹ Previous</button>
+        <div class="page-indicator">
+          <span id="page-counter">1 / 29</span>
+        </div>
+        <button class="side-nav-btn js-next-page" type="button">Next ›</button>
+      </aside>
+
+      <!-- Page viewport -->
+      <section class="page-viewport">
+        <div id="page-container" class="page-container">
+          <!-- Each SVG page (as <object>) is injected here by script.js -->
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <span>Mixif® (Cefixime) – Educational digital experience</span>
+    </footer>
+  </div>
+
+  <!-- Loader Overlay -->
+  <div id="loader" class="loader-overlay">
+    <div class="loader-inner">
+      <div class="loader-logo">Mixif®</div>
+      <div class="loader-subtitle">Preparing interactive brochure…</div>
+      <div class="loader-bar">
+        <div class="loader-bar-fill"></div>
+      </div>
+      <div class="loader-hint">
+        Animating charts, lists, and evidence with SVG + GSAP
+      </div>
+    </div>
+  </div>
+
+  <!-- Citation Modal -->
+  <div id="citation-modal" class="citation-modal hidden" aria-hidden="true">
+    <div class="citation-backdrop"></div>
+    <div class="citation-dialog" role="dialog" aria-modal="true" aria-labelledby="citation-id">
+      <button class="citation-close" type="button" aria-label="Close reference">&times;</button>
+      <div class="citation-body">
+        <div class="citation-label">
+          Reference <span id="citation-id"></span>
+        </div>
+        <div id="citation-text" class="citation-text"></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,347 @@
+/* Reset-ish */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+  background: radial-gradient(circle at top, #0c1635 0, #020617 55%, #000 100%);
+  color: #f9fafb;
+}
+
+/* App Shell */
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Top Bar */
+.top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1.5rem;
+  background: linear-gradient(90deg, #111827, #0b1220);
+  border-bottom: 1px solid rgba(148, 163, 184, 0.25);
+  position: sticky;
+  top: 0;
+  z-index: 40;
+}
+
+.brand {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
+.brand-main {
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  color: #38bdf8;
+}
+
+.brand-sub {
+  font-size: 0.8rem;
+  color: #cbd5f5;
+}
+
+/* Main Nav */
+.main-nav {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 0.4rem;
+  overflow-x: auto;
+  padding: 0.25rem 0;
+}
+
+.main-nav::-webkit-scrollbar {
+  height: 4px;
+}
+.main-nav::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.7);
+  border-radius: 999px;
+}
+
+.nav-btn {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  white-space: nowrap;
+  padding: 0.35rem 0.7rem;
+  font-size: 0.75rem;
+  border-radius: 999px;
+  background: rgba(15, 23, 42, 0.8);
+  color: #e5e7eb;
+  border: 1px solid rgba(148, 163, 184, 0.3);
+  transition: background 0.2s ease, color 0.2s ease, transform 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.nav-btn:hover {
+  background: rgba(56, 189, 248, 0.12);
+  color: #f9fafb;
+  transform: translateY(-1px);
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.4);
+}
+
+.nav-btn.active {
+  background: linear-gradient(135deg, #38bdf8, #0ea5e9);
+  color: #020617;
+  box-shadow: 0 0 24px rgba(56, 189, 248, 0.6);
+}
+
+/* Layout */
+.main-layout {
+  flex: 1;
+  display: flex;
+  align-items: stretch;
+  padding: 0.75rem 1.5rem 1rem;
+  gap: 0.75rem;
+}
+
+/* Side navigation (Prev/Next) */
+.side-nav {
+  width: 7rem;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.75rem;
+}
+
+.side-nav-btn {
+  border-radius: 999px;
+  border: 1px solid rgba(148, 163, 184, 0.45);
+  padding: 0.4rem 0.6rem;
+  background: rgba(15, 23, 42, 0.9);
+  color: #e5e7eb;
+  font-size: 0.8rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.2s ease, transform 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.side-nav-btn:hover {
+  background: rgba(56, 189, 248, 0.15);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(15, 23, 42, 0.5);
+}
+
+.page-indicator {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  color: #9ca3af;
+}
+
+/* Page viewport */
+.page-viewport {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-container {
+  position: relative;
+  width: 100%;
+  max-width: 1280px;
+  aspect-ratio: 1280 / 768;
+  border-radius: 24px;
+  overflow: hidden;
+  background: radial-gradient(circle at top, #111827 0, #020617 40%, #000 100%);
+  box-shadow:
+    0 24px 60px rgba(15, 23, 42, 0.9),
+    0 0 0 1px rgba(148, 163, 184, 0.25);
+}
+
+/* Individual pages */
+.page {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  pointer-events: none;
+  display: flex;
+}
+
+.page.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.mixif-page-object {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* Footer */
+.footer {
+  padding: 0.5rem 1.5rem 1rem;
+  font-size: 0.75rem;
+  color: #9ca3af;
+  text-align: right;
+}
+
+/* Loader */
+.loader-overlay {
+  position: fixed;
+  inset: 0;
+  background: radial-gradient(circle at top, #020617 0, #000 65%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+}
+
+.loader-inner {
+  padding: 1.75rem 2.25rem;
+  border-radius: 24px;
+  background: radial-gradient(circle at top, #111827 0, #020617 60%, #000 100%);
+  border: 1px solid rgba(148, 163, 184, 0.4);
+  box-shadow:
+    0 24px 80px rgba(15, 23, 42, 0.9),
+    0 0 0 1px rgba(15, 23, 42, 0.9);
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  min-width: 260px;
+}
+
+.loader-logo {
+  font-size: 1.5rem;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #38bdf8;
+}
+
+.loader-subtitle {
+  font-size: 0.85rem;
+  color: #e5e7eb;
+}
+
+.loader-bar {
+  margin-top: 0.5rem;
+  width: 100%;
+  height: 4px;
+  border-radius: 999px;
+  overflow: hidden;
+  background: rgba(15, 23, 42, 0.8);
+}
+
+.loader-bar-fill {
+  width: 100%;
+  height: 100%;
+  transform-origin: left center;
+  background: linear-gradient(90deg, #38bdf8, #0ea5e9, #22c55e);
+}
+
+.loader-hint {
+  font-size: 0.75rem;
+  color: #9ca3af;
+}
+
+/* Citation Modal */
+.citation-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: none;
+}
+
+.citation-modal.hidden {
+  display: none;
+}
+
+.citation-modal:not(.hidden) {
+  display: block;
+}
+
+.citation-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.75);
+  backdrop-filter: blur(6px);
+}
+
+.citation-dialog {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  max-width: 420px;
+  max-height: 280px;
+  background: radial-gradient(circle at top, #0b1120 0, #020617 60%, #000 100%);
+  border-radius: 18px;
+  border: 1px solid rgba(148, 163, 184, 0.5);
+  box-shadow:
+    0 18px 50px rgba(15, 23, 42, 0.9),
+    0 0 0 1px rgba(15, 23, 42, 0.9);
+  padding: 1rem 1.25rem 1.1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.citation-close {
+  align-self: flex-end;
+  border: none;
+  background: transparent;
+  color: #9ca3af;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+
+.citation-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.citation-label {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: #38bdf8;
+}
+
+.citation-text {
+  font-size: 0.8rem;
+  line-height: 1.35;
+  color: #e5e7eb;
+  overflow-y: auto;
+}
+
+/* Small screens */
+@media (max-width: 900px) {
+  .main-layout {
+    flex-direction: column;
+  }
+
+  .side-nav {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    order: 2;
+  }
+
+  .page-viewport {
+    order: 1;
+  }
+}
